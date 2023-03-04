@@ -140,6 +140,14 @@
       "icons": [""]
        },
        {
+      "id": "alyqd",
+      "name": "阿里云签到",
+      "keys": ["ALI_TOKEN"], 
+      "repo": "https://github.com/laoguilin/", 
+      "script": "https://raw.githubusercontent.com/laoguilin/", 
+      "icons": [""]
+       },       
+       {
     "id": "jscfz",
     "name": "嘉实宠粉站",
     "keys": ["jscfzheader","jscfzheader2","jscfzheader3","jscfzheader4","jscfzheader5","jscfzheader6","jscfzheader7","jscfzheader8","jscfzheader9","jscfzheader10","jscfzheader11","jscfzheader12","jscfzheader13","jscfzheader14","jscfzheader15"],
